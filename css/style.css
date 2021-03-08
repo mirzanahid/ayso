@@ -279,7 +279,7 @@ body {
 
 .dropdown-toggle::after {
     display: none;
-    border: 0 !important;
+
 }
 
 .ayso_dropdown_color {
